@@ -1,5 +1,5 @@
 {
-  "name": "project-template-next.js",
+  "name": "codesandbox-nextjs-template",
   "private": true,
   "scripts": {
     "dev": "next dev",
